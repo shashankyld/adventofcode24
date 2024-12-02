@@ -1,0 +1,23 @@
+# General utilities
+numpy==1.25.0       # Fast numerical computations
+scipy==1.11.3       # Scientific computing and optimization
+sympy==1.13         # Symbolic mathematics
+pandas==2.1.2       # Data manipulation and analysis
+
+# # Algorithms and data structures
+# networkx==3.1       # Graph algorithms
+# sortedcontainers==2.5.0  # Efficient sorted collections
+# python-constraint==1.4.0 # Constraint-solving algorithms
+
+# # Parsing and file handling
+# beautifulsoup4==4.12.2  # Web scraping and parsing
+# lxml==4.9.3            # XML and HTML parsing
+
+# # Competitive programming tools
+# pytest==7.4.2         # Testing framework
+# pytest-benchmark==4.0.0  # Benchmarking test performance
+
+# # Miscellaneous
+# colorama==0.4.6       # Colored console output
+# rich==13.6.0          # Pretty printing and visualization
+# python-decouple==3.8  # Environment variable handling
